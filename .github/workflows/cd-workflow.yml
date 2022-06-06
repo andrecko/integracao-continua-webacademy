@@ -22,4 +22,4 @@ jobs:
         with:
           heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
           heroku_app_name: 'sgcmapi'
-          heroku_email: 'danielnsilva@gmail.com'
+          heroku_email: 'andrejunioracre@gmail.com'

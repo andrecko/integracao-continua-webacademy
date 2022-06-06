@@ -1,2 +1,2 @@
 # integracao-continua
-Repositório da disciplina Integração Contínua
+Integração Contínua, TBD, Implantação Contínua e Heroku

@@ -16,7 +16,7 @@ public class FiltroCors {
 
         CorsConfiguration configCors = new CorsConfiguration();
         configCors.setAllowCredentials(true);
-        configCors.setAllowedOrigins(Arrays.asList("https://sgcmapp.herokuapp.com"));
+        configCors.setAllowedOrigins(Arrays.asList("https://sgcmapi-meu.herokuapp.com"));
         configCors.setAllowedMethods(Arrays.asList("*"));
         configCors.setAllowedHeaders(Arrays.asList("*"));
 
